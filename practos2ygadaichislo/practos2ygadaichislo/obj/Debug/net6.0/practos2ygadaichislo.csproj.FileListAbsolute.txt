@@ -1,0 +1,14 @@
+D:\C#\practos2ygadaichislo\practos2ygadaichislo\bin\Debug\net6.0\practos2ygadaichislo.exe
+D:\C#\practos2ygadaichislo\practos2ygadaichislo\bin\Debug\net6.0\practos2ygadaichislo.deps.json
+D:\C#\practos2ygadaichislo\practos2ygadaichislo\bin\Debug\net6.0\practos2ygadaichislo.runtimeconfig.json
+D:\C#\practos2ygadaichislo\practos2ygadaichislo\bin\Debug\net6.0\practos2ygadaichislo.dll
+D:\C#\practos2ygadaichislo\practos2ygadaichislo\bin\Debug\net6.0\practos2ygadaichislo.pdb
+D:\C#\practos2ygadaichislo\practos2ygadaichislo\obj\Debug\net6.0\practos2ygadaichislo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\practos2ygadaichislo\practos2ygadaichislo\obj\Debug\net6.0\practos2ygadaichislo.AssemblyInfoInputs.cache
+D:\C#\practos2ygadaichislo\practos2ygadaichislo\obj\Debug\net6.0\practos2ygadaichislo.AssemblyInfo.cs
+D:\C#\practos2ygadaichislo\practos2ygadaichislo\obj\Debug\net6.0\practos2ygadaichislo.csproj.CoreCompileInputs.cache
+D:\C#\practos2ygadaichislo\practos2ygadaichislo\obj\Debug\net6.0\practos2ygadaichislo.dll
+D:\C#\practos2ygadaichislo\practos2ygadaichislo\obj\Debug\net6.0\refint\practos2ygadaichislo.dll
+D:\C#\practos2ygadaichislo\practos2ygadaichislo\obj\Debug\net6.0\practos2ygadaichislo.pdb
+D:\C#\practos2ygadaichislo\practos2ygadaichislo\obj\Debug\net6.0\practos2ygadaichislo.genruntimeconfig.cache
+D:\C#\practos2ygadaichislo\practos2ygadaichislo\obj\Debug\net6.0\ref\practos2ygadaichislo.dll

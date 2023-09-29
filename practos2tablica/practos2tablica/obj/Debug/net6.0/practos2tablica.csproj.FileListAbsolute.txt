@@ -1,0 +1,14 @@
+D:\C#\practos2tablica\practos2tablica\bin\Debug\net6.0\practos2tablica.exe
+D:\C#\practos2tablica\practos2tablica\bin\Debug\net6.0\practos2tablica.deps.json
+D:\C#\practos2tablica\practos2tablica\bin\Debug\net6.0\practos2tablica.runtimeconfig.json
+D:\C#\practos2tablica\practos2tablica\bin\Debug\net6.0\practos2tablica.dll
+D:\C#\practos2tablica\practos2tablica\bin\Debug\net6.0\practos2tablica.pdb
+D:\C#\practos2tablica\practos2tablica\obj\Debug\net6.0\practos2tablica.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\practos2tablica\practos2tablica\obj\Debug\net6.0\practos2tablica.AssemblyInfoInputs.cache
+D:\C#\practos2tablica\practos2tablica\obj\Debug\net6.0\practos2tablica.AssemblyInfo.cs
+D:\C#\practos2tablica\practos2tablica\obj\Debug\net6.0\practos2tablica.csproj.CoreCompileInputs.cache
+D:\C#\practos2tablica\practos2tablica\obj\Debug\net6.0\practos2tablica.dll
+D:\C#\practos2tablica\practos2tablica\obj\Debug\net6.0\refint\practos2tablica.dll
+D:\C#\practos2tablica\practos2tablica\obj\Debug\net6.0\practos2tablica.pdb
+D:\C#\practos2tablica\practos2tablica\obj\Debug\net6.0\practos2tablica.genruntimeconfig.cache
+D:\C#\practos2tablica\practos2tablica\obj\Debug\net6.0\ref\practos2tablica.dll

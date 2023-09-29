@@ -1,0 +1,14 @@
+D:\C#\practos2vivoddeliteley\practos2vivoddeliteley\bin\Debug\net6.0\practos2vivoddeliteley.exe
+D:\C#\practos2vivoddeliteley\practos2vivoddeliteley\bin\Debug\net6.0\practos2vivoddeliteley.deps.json
+D:\C#\practos2vivoddeliteley\practos2vivoddeliteley\bin\Debug\net6.0\practos2vivoddeliteley.runtimeconfig.json
+D:\C#\practos2vivoddeliteley\practos2vivoddeliteley\bin\Debug\net6.0\practos2vivoddeliteley.dll
+D:\C#\practos2vivoddeliteley\practos2vivoddeliteley\bin\Debug\net6.0\practos2vivoddeliteley.pdb
+D:\C#\practos2vivoddeliteley\practos2vivoddeliteley\obj\Debug\net6.0\practos2vivoddeliteley.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\practos2vivoddeliteley\practos2vivoddeliteley\obj\Debug\net6.0\practos2vivoddeliteley.AssemblyInfoInputs.cache
+D:\C#\practos2vivoddeliteley\practos2vivoddeliteley\obj\Debug\net6.0\practos2vivoddeliteley.AssemblyInfo.cs
+D:\C#\practos2vivoddeliteley\practos2vivoddeliteley\obj\Debug\net6.0\practos2vivoddeliteley.csproj.CoreCompileInputs.cache
+D:\C#\practos2vivoddeliteley\practos2vivoddeliteley\obj\Debug\net6.0\practos2vivoddeliteley.dll
+D:\C#\practos2vivoddeliteley\practos2vivoddeliteley\obj\Debug\net6.0\refint\practos2vivoddeliteley.dll
+D:\C#\practos2vivoddeliteley\practos2vivoddeliteley\obj\Debug\net6.0\practos2vivoddeliteley.pdb
+D:\C#\practos2vivoddeliteley\practos2vivoddeliteley\obj\Debug\net6.0\practos2vivoddeliteley.genruntimeconfig.cache
+D:\C#\practos2vivoddeliteley\practos2vivoddeliteley\obj\Debug\net6.0\ref\practos2vivoddeliteley.dll
